@@ -7,5 +7,5 @@ This script dumps the contents of a selected DLL into a bytearray, then checks f
 # Warning/Disclaimer
 **If you didn't know, randomly replacing byte sequences in game files can make things stop working. Also, if your desired game has any sort of anticheat or validation system, this probably will not work! Worth a shot, though.**
 
-*Tested working on Fall Guys in January 2023 (./UnityPlayer.dll)*
-*Tested working on Hollow Knight in February 2023 (./hollow_knight_Data/Managed/Assembly-CSharp.dll)*
+* Tested working on Fall Guys in January 2023 (./UnityPlayer.dll)*
+* *Tested working on Hollow Knight in February 2023 (./hollow_knight_Data/Managed/Assembly-CSharp.dll)*
