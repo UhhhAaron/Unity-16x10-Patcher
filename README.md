@@ -1,4 +1,4 @@
-# Fall Guys 16:10 Patcher
+# Unity 16:10 Patcher
 Automatic DLL patcher that can help force games to run with a 16:10 aspect ratio.
 
 # How it works
